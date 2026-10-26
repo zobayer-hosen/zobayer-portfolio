@@ -1,0 +1,25 @@
+{
+  "name": "zobayer-hosen-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfolio of Md Zobayer Hosen, Full-Stack Developer (Next.js, NestJS, TypeScript) and AI/ML enthusiast.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "16.4.3",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.3",
+    "typescript": "~5.9.3"
+  }
+}
